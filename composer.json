@@ -1,5 +1,5 @@
 {
-  "name": "i/custom-auth",
+  "name": "i-neop/custom-auth",
   "description": "Custom Auth",
   "license": "MIT",
   "autoload": {
